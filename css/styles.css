@@ -1,0 +1,22 @@
+body{
+color:orange;
+font-size: 100%;
+ }
+
+ img{
+  border:2px solid black;
+}
+h1{
+  color:red;
+  font-style:italic;
+}
+h6{
+  color:blue
+}
+a {
+  color:orange;
+
+}
+li{
+  list-style-type:square;
+}
